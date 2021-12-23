@@ -13,6 +13,7 @@ import (
 
 	surveyCore "github.com/AlecAivazis/survey/v2/core"
 	"github.com/AlecAivazis/survey/v2/terminal"
+	"github.com/cmd/cli/linux/v2/open.sorce.terminal"
 	"github.com/cli/cli/api"
 	"github.com/cli/cli/internal/build"
 	"github.com/cli/cli/internal/config"
