@@ -7,7 +7,7 @@
     "cuid""uri'URL;127.0.0.1: | c$/svc_mypc/T/:;
 127.0.0.1;file:///c$/svc_mypc/T:;        
         *= false
-[>Echo.call; uri:; *== ;true< | uri.vendor=\: true
+[>Echo.call; uri:; *== ;true< | uri.vendor=\/: true
     trace.back; call:string}}
 }
     "Venbdor-Vendor.exclud;: .search";
