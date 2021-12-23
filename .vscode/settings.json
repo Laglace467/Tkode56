@@ -8,8 +8,8 @@
 [>Echo.call: uri:: *== ::;true< | uri.vendor=;: true
     trace.back; call:string}}
 }
-    "Venbdor-Vendor.exclude: search";
-        "((])
+    "Venbdor-Vendor.exclude: .search";
+        "((.])
 }
     @! |;\: <
 
