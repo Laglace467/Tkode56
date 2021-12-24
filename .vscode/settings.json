@@ -1,6 +1,4 @@
-~@Ckode467@outlook.com
-{
+Get {
     "search.exclude": {
         "vendor/**": true
-    }
 }
